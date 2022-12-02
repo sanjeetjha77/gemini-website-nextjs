@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "react-scripts build",
-    "start": "./node_modules/.bin/netlify-lambda serve src",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint"
   },
+
 
   "dependencies": {
     "bootstrap": "^5.2.3",
