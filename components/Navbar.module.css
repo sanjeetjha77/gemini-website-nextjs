@@ -1,0 +1,51 @@
+.headerNavbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#fff;
+}
+
+.geminiLogo {
+    width:200px;
+    height: auto;
+    margin:0.2rem 1rem;
+}
+
+.geminiLogo img {
+    width: 100%;
+    height:auto;
+}
+
+.navLink {
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+
+.navLink li {
+    margin:0 0.5rem;
+}
+
+.navLink li a {
+    padding:0.7rem;
+    text-decoration: none !important;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #000;
+}
+
+.active {
+    color: blue !important;
+}
+
+.searchIcon {
+    width:40px;
+    height:30px;
+    margin-right:1rem;
+    cursor: pointer;
+}
+
+

@@ -1,0 +1,21 @@
+.awardLogo {
+    margin : 3rem auto;
+}
+
+.awardLogo ul {
+    display:flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left:0;
+}
+
+.awardLogo ul li {
+    padding:1rem;
+}
+
+.awardLogo img {
+    width:100%;
+    height:auto;
+}

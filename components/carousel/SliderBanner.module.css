@@ -1,0 +1,47 @@
+.carouselBanner {
+    width: 100%;
+    height:auto;
+}
+
+.carouselItem {
+    width:100%;
+    height:550px;
+    background-color: blue;
+}
+
+.carouselCaption {
+    position: absolute;
+    top:10%;
+    left:7%;
+    width: 550px;
+    text-align: left;
+}
+
+.carouselCaption h3 {
+    font-size:1.7rem;
+    font-weight: 700;
+}
+
+.carouselCaption h4 {
+    font-size:2.5rem;
+}
+
+.carouselCaption p {
+    font-size:0.8rem;
+}
+
+.carouselCaption button {
+    border:#fff 2px solid;
+    background:transparent;
+    border-radius: 0.5rem;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+}
+
+.carouselCaption button:hover {
+    background-color: mediumturquoise;
+    border-color: mediumturquoise;
+}

@@ -1,0 +1,18 @@
+.headerBg {
+    background-color: #eee;
+    background-image: url(/images/GCS-Header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height:200px;
+    overflow: hidden;
+    box-shadow: inset 0 5px 15px #ccc;
+    margin-bottom:2rem;
+    padding-top:4rem;
+    padding-left:10rem;
+}
+
+.serviceCategoryImg {
+    width:100%;
+    height:auto;
+}

@@ -1,0 +1,21 @@
+.clientFeedbackBox {
+    width: 100%;
+    min-height:500px;
+    background: rgb(56, 92, 146);
+    background-image: url(/images/GCS-Header-bg.png);
+    background-size: cover;
+}
+
+.carouselCaption {
+    position: relative !important;
+    text-align: justify;
+    left : 0;
+    bottom: 0;
+    padding: 3rem 9rem 4rem;
+}
+
+.clientFeedbackHead {
+    color: #fff;
+    padding-top:4rem;
+    padding-left: 9rem;
+}

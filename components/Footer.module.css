@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+    height:auto;
+    background : linear-gradient(75deg, #225b7b 0%, #143749 100%);
+    color:#fff;
+    padding: 2rem;
+}
+
+.footerIsoLogos {
+    width: 80%;
+    height:auto;
+}
+
+.footerAddress h4 {
+    font-size: 1.2rem;
+}
+
+.footerAddress p {
+    font-size: 0.7rem;
+}
+
+
+.footerCopyrightText {
+    background-color: #0277bd;
+    color:#fff;
+    width: 100%;
+    height: auto;
+    padding:1rem;
+}
