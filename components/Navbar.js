@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { headerMenu } from '../pages/api/data';
+// import { headerMenu } from '../pages/api/data';
 import styles from './Navbar.module.css';
 import Image from 'next/image';
 import { FaSearch } from 'react-icons/fa';

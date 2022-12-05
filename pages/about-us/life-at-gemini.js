@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const LifeAtGemini = () => {
+const LifeAtGemini = () => {
   return (
-    <div>LifeAtGemini</div>
+    <div>life-at-gemini</div>
   )
 }
+
+export default LifeAtGemini

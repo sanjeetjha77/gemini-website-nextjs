@@ -1,7 +1,7 @@
-import styles from '../styles/Home.module.css'
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+// import styles from '../styles/Home.module.css'
+// import Container from 'react-bootstrap/Container';
+// import Row from 'react-bootstrap/Row';
+// import Col from 'react-bootstrap/Col';
 import SliderBanner from '../components/carousel/SliderBanner';
 import Head from 'next/head';
 import CategoryBanner from '../components/homepage/CategoryBanner';
